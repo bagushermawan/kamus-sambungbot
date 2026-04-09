@@ -1,407 +1,392 @@
-const _0x2d023b = _0x5b40;
-(function (_0x5e6556, _0x252fb9) {
-  const _0x459f06 = _0x5b40,
-    _0x3e0807 = _0x5e6556();
+const _0x5395d8 = _0x1fdc;
+(function (_0x6bbb18, _0x180bd2) {
+  const _0x4508e3 = _0x1fdc,
+    _0x2b2499 = _0x6bbb18();
   while (!![]) {
     try {
-      const _0x13e882 =
-        (-parseInt(_0x459f06(0x13a)) / 0x1) *
-          (-parseInt(_0x459f06(0x147)) / 0x2) +
-        (-parseInt(_0x459f06(0x109)) / 0x3) *
-          (parseInt(_0x459f06(0x122)) / 0x4) +
-        parseInt(_0x459f06(0x125)) / 0x5 +
-        (-parseInt(_0x459f06(0x138)) / 0x6) *
-          (parseInt(_0x459f06(0x128)) / 0x7) +
-        parseInt(_0x459f06(0x110)) / 0x8 +
-        (parseInt(_0x459f06(0x10d)) / 0x9) *
-          (parseInt(_0x459f06(0x130)) / 0xa) +
-        (parseInt(_0x459f06(0x15a)) / 0xb) *
-          (-parseInt(_0x459f06(0x14f)) / 0xc);
-      if (_0x13e882 === _0x252fb9) break;
-      else _0x3e0807["push"](_0x3e0807["shift"]());
-    } catch (_0x3bb03d) {
-      _0x3e0807["push"](_0x3e0807["shift"]());
+      const _0x392ce6 =
+        parseInt(_0x4508e3(0xc1)) / 0x1 +
+        -parseInt(_0x4508e3(0x8c)) / 0x2 +
+        parseInt(_0x4508e3(0x7e)) / 0x3 +
+        (-parseInt(_0x4508e3(0x9e)) / 0x4) *
+          (-parseInt(_0x4508e3(0x71)) / 0x5) +
+        (-parseInt(_0x4508e3(0x86)) / 0x6) * (parseInt(_0x4508e3(0xaa)) / 0x7) +
+        (parseInt(_0x4508e3(0xcd)) / 0x8) * (-parseInt(_0x4508e3(0xb0)) / 0x9) +
+        parseInt(_0x4508e3(0x84)) / 0xa;
+      if (_0x392ce6 === _0x180bd2) break;
+      else _0x2b2499["push"](_0x2b2499["shift"]());
+    } catch (_0x2ad61a) {
+      _0x2b2499["push"](_0x2b2499["shift"]());
     }
   }
-})(_0x3c90, 0x269fd);
-const SUPABASE_URL = _0x2d023b(0x135),
+})(_0x5d5d, 0x66521);
+const SUPABASE_URL = _0x5395d8(0xc9),
   SUPABASE_KEY = "sb_publishable_1o9iZscYpzdpg7eEY3xwqQ_zvgsjdrX",
-  supabaseClient = window["supabase"][_0x2d023b(0x165)](
+  supabaseClient = window["supabase"][_0x5395d8(0xab)](
     SUPABASE_URL,
     SUPABASE_KEY,
   );
 let words = [],
   allFilteredResults = [];
+function _0x5d5d() {
+  const _0x396c37 = [
+    "\x20kata...",
+    "Mengirim...",
+    "value",
+    "992324jtXUfA",
+    "item-text",
+    "none",
+    "trim",
+    "Kata\x20tidak\x20boleh\x20kosong!",
+    "focus",
+    "toLowerCase",
+    "black",
+    "innerHTML",
+    "scrollTo",
+    "Loading:\x20",
+    "kamus_usulan",
+    "Anonim",
+    "loader-text",
+    "localeCompare",
+    "insert",
+    "prevBtn",
+    "flex",
+    "2783448JRglCg",
+    "\x20/\x20",
+    "Hal\x20",
+    "range",
+    "getItem",
+    "addEventListener",
+    "endsWith",
+    "forEach",
+    "item-left",
+    "disabled",
+    "inputSumbangNama",
+    "createElement",
+    "749XnBkxJ",
+    "createClient",
+    "push",
+    "click",
+    "nextBtn",
+    "Kirim",
+    "5666382JCdweR",
+    "opera",
+    "ceil",
+    "Ditemukan:\x200\x20kata",
+    "setItem",
+    "userAgent",
+    "iOS",
+    "pageInfo",
+    "#00e676",
+    "className",
+    "clipboard",
+    "MSStream",
+    "suffixInput",
+    "Android",
+    "style",
+    "getElementById",
+    "sumbangModal",
+    "127410jaMnlV",
+    "\x20kata",
+    "Harap\x20isi\x20Nickname\x20kamu!",
+    "filter",
+    "openSumbangBtn",
+    "display",
+    "✅\x20Berhasil!\x20Menunggu\x20persetujuan.",
+    "appendChild",
+    "https://lsnomevsllvjguotwchm.supabase.co",
+    "cloud-loader",
+    "select",
+    "innerText",
+    "8ePYrMl",
+    "vendor",
+    "✔️\x20Copied",
+    "color",
+    "background",
+    "item",
+    "onclick",
+    "word",
+    "inputSumbangKata",
+    "📋\x20Copy",
+    "5WDAxbg",
+    "length",
+    "input",
+    "counter",
+    "item-number",
+    "user_nickname",
+    "prefixInput",
+    "clearSuffix",
+    "Gagal\x20mengirim\x20kata.",
+    "paginationBox",
+    "kirimSumbangBtn",
+    "white",
+    "pending",
+    "138258UWmhDm",
+    "test",
+    "error",
+    "Tersalin:\x20",
+    "copy-btn",
+    "span",
+    "14832500sVPePO",
+    "toast",
+    "45294BCqySk",
+    "from",
+    "slice",
+  ];
+  _0x5d5d = function () {
+    return _0x396c37;
+  };
+  return _0x5d5d();
+}
 const ITEMS_PER_PAGE = 0xa;
 let currentPage = 0x1;
-const prefixInput = document[_0x2d023b(0x134)](_0x2d023b(0x142)),
-  suffixInput = document[_0x2d023b(0x134)]("suffixInput"),
-  clearPrefix = document[_0x2d023b(0x134)]("clearPrefix"),
-  clearSuffix = document["getElementById"](_0x2d023b(0x127)),
-  list = document[_0x2d023b(0x134)](_0x2d023b(0x16a)),
-  counter = document[_0x2d023b(0x134)](_0x2d023b(0x159)),
-  toast = document[_0x2d023b(0x134)]("toast"),
-  loader = document[_0x2d023b(0x134)](_0x2d023b(0x14b)),
-  loaderText = document["getElementById"](_0x2d023b(0x166)),
-  paginationBox = document[_0x2d023b(0x134)](_0x2d023b(0x12f)),
-  prevBtn = document[_0x2d023b(0x134)](_0x2d023b(0x132)),
-  nextBtn = document[_0x2d023b(0x134)](_0x2d023b(0x163)),
-  pageInfo = document[_0x2d023b(0x134)]("pageInfo");
+const prefixInput = document["getElementById"](_0x5395d8(0x77)),
+  suffixInput = document["getElementById"](_0x5395d8(0xbc)),
+  clearPrefix = document[_0x5395d8(0xbf)]("clearPrefix"),
+  clearSuffix = document["getElementById"](_0x5395d8(0x78)),
+  list = document[_0x5395d8(0xbf)]("list"),
+  counter = document[_0x5395d8(0xbf)](_0x5395d8(0x74)),
+  toast = document[_0x5395d8(0xbf)](_0x5395d8(0x85)),
+  loader = document["getElementById"](_0x5395d8(0xca)),
+  loaderText = document[_0x5395d8(0xbf)](_0x5395d8(0x99)),
+  paginationBox = document[_0x5395d8(0xbf)](_0x5395d8(0x7a)),
+  prevBtn = document[_0x5395d8(0xbf)](_0x5395d8(0x9c)),
+  nextBtn = document[_0x5395d8(0xbf)](_0x5395d8(0xae)),
+  pageInfo = document["getElementById"](_0x5395d8(0xb7));
 function getPlatform() {
-  const _0x52995b = _0x2d023b,
-    _0xf12364 =
-      navigator[_0x52995b(0x171)] ||
-      navigator["vendor"] ||
-      window[_0x52995b(0x174)];
-  if (/android/i["test"](_0xf12364)) return _0x52995b(0x173);
+  const _0x3562fa = _0x5395d8,
+    _0x5af842 =
+      navigator[_0x3562fa(0xb5)] ||
+      navigator[_0x3562fa(0xce)] ||
+      window[_0x3562fa(0xb1)];
+  if (/android/i[_0x3562fa(0x7f)](_0x5af842)) return _0x3562fa(0xbd);
   if (
-    /iPad|iPhone|iPod/[_0x52995b(0x118)](_0xf12364) &&
-    !window[_0x52995b(0x15e)]
+    /iPad|iPhone|iPod/[_0x3562fa(0x7f)](_0x5af842) &&
+    !window[_0x3562fa(0xbb)]
   )
-    return _0x52995b(0x11e);
-  return _0x52995b(0x149);
+    return _0x3562fa(0xb6);
+  return "PC/Web";
 }
-function _0x5b40(_0x3a7ebd, _0x18dce2) {
-  _0x3a7ebd = _0x3a7ebd - 0x109;
-  const _0x3c909c = _0x3c90();
-  let _0x5b40f9 = _0x3c909c[_0x3a7ebd];
-  return _0x5b40f9;
-}
-const sumbangModal = document["getElementById"](_0x2d023b(0x14c)),
-  openSumbangBtn = document[_0x2d023b(0x134)](_0x2d023b(0x10c)),
-  tutupModalBtn = document[_0x2d023b(0x134)](_0x2d023b(0x15d)),
-  kirimSumbangBtn = document["getElementById"](_0x2d023b(0x114)),
-  inputSumbangKata = document[_0x2d023b(0x134)](_0x2d023b(0x160)),
-  inputSumbangNama = document[_0x2d023b(0x134)](_0x2d023b(0x170));
-((openSumbangBtn[_0x2d023b(0x140)] = () => {
-  const _0x5c2e22 = _0x2d023b;
-  sumbangModal[_0x5c2e22(0x10a)][_0x5c2e22(0x158)] = _0x5c2e22(0x157);
-  const _0xfbe0c = localStorage[_0x5c2e22(0x172)]("user_nickname");
-  _0xfbe0c &&
-    _0xfbe0c !== _0x5c2e22(0x16d) &&
-    (inputSumbangNama[_0x5c2e22(0x121)] = _0xfbe0c);
+const sumbangModal = document[_0x5395d8(0xbf)](_0x5395d8(0xc0)),
+  openSumbangBtn = document[_0x5395d8(0xbf)](_0x5395d8(0xc5)),
+  tutupModalBtn = document["getElementById"]("tutupModalBtn"),
+  kirimSumbangBtn = document[_0x5395d8(0xbf)](_0x5395d8(0x7b)),
+  inputSumbangKata = document[_0x5395d8(0xbf)](_0x5395d8(0x6f)),
+  inputSumbangNama = document[_0x5395d8(0xbf)](_0x5395d8(0xa8));
+((openSumbangBtn["onclick"] = () => {
+  const _0x1fe588 = _0x5395d8;
+  sumbangModal[_0x1fe588(0xbe)][_0x1fe588(0xc6)] = _0x1fe588(0x9d);
+  const _0x34981c = localStorage[_0x1fe588(0xa2)](_0x1fe588(0x76));
+  _0x34981c &&
+    _0x34981c !== _0x1fe588(0x98) &&
+    (inputSumbangNama[_0x1fe588(0x8b)] = _0x34981c);
 }),
-  (tutupModalBtn["onclick"] = () => {
-    const _0x3a62e2 = _0x2d023b;
-    sumbangModal[_0x3a62e2(0x10a)][_0x3a62e2(0x158)] = "none";
+  (tutupModalBtn[_0x5395d8(0x6d)] = () => {
+    const _0x4981fa = _0x5395d8;
+    sumbangModal[_0x4981fa(0xbe)]["display"] = "none";
   }),
-  (kirimSumbangBtn[_0x2d023b(0x140)] = async () => {
-    const _0x3fd6fe = _0x2d023b,
-      _0x3cc454 = inputSumbangNama[_0x3fd6fe(0x121)][_0x3fd6fe(0x112)](),
-      _0x2ac766 = inputSumbangKata[_0x3fd6fe(0x121)]
-        [_0x3fd6fe(0x133)]()
-        [_0x3fd6fe(0x112)]();
-    if (!_0x3cc454) return alert(_0x3fd6fe(0x162));
-    if (!_0x2ac766) return alert(_0x3fd6fe(0x115));
-    (localStorage[_0x3fd6fe(0x12c)](_0x3fd6fe(0x116), _0x3cc454),
-      (kirimSumbangBtn[_0x3fd6fe(0x12b)] = !![]),
-      (kirimSumbangBtn[_0x3fd6fe(0x16f)] = _0x3fd6fe(0x151)));
+  (kirimSumbangBtn[_0x5395d8(0x6d)] = async () => {
+    const _0x3c816e = _0x5395d8,
+      _0x44a7c9 = inputSumbangNama[_0x3c816e(0x8b)][_0x3c816e(0x8f)](),
+      _0x1bd40f = inputSumbangKata[_0x3c816e(0x8b)]
+        [_0x3c816e(0x92)]()
+        [_0x3c816e(0x8f)]();
+    if (!_0x44a7c9) return alert(_0x3c816e(0xc3));
+    if (!_0x1bd40f) return alert(_0x3c816e(0x90));
+    (localStorage[_0x3c816e(0xb4)](_0x3c816e(0x76), _0x44a7c9),
+      (kirimSumbangBtn["disabled"] = !![]),
+      (kirimSumbangBtn[_0x3c816e(0xcc)] = _0x3c816e(0x8a)));
     try {
-      const { error: _0x3925c0 } = await supabaseClient["from"](
-        _0x3fd6fe(0x168),
-      )[_0x3fd6fe(0x13e)]([
+      const { error: _0x3559c4 } = await supabaseClient[_0x3c816e(0x87)](
+        _0x3c816e(0x97),
+      )[_0x3c816e(0x9b)]([
         {
-          word: _0x2ac766,
-          pengusul: _0x3cc454,
+          word: _0x1bd40f,
+          pengusul: _0x44a7c9,
           platform: getPlatform(),
-          status: _0x3fd6fe(0x136),
+          status: _0x3c816e(0x7d),
         },
       ]);
-      if (_0x3925c0) throw _0x3925c0;
-      (showToast(_0x3fd6fe(0x13d)),
-        (inputSumbangKata[_0x3fd6fe(0x121)] = ""),
-        (sumbangModal[_0x3fd6fe(0x10a)][_0x3fd6fe(0x158)] = "none"));
-    } catch (_0x4de612) {
-      (console["error"](_0x4de612), alert(_0x3fd6fe(0x119)));
+      if (_0x3559c4) throw _0x3559c4;
+      (showToast(_0x3c816e(0xc7)),
+        (inputSumbangKata[_0x3c816e(0x8b)] = ""),
+        (sumbangModal[_0x3c816e(0xbe)][_0x3c816e(0xc6)] = _0x3c816e(0x8e)));
+    } catch (_0x9cea50) {
+      (console[_0x3c816e(0x80)](_0x9cea50), alert(_0x3c816e(0x79)));
     } finally {
-      ((kirimSumbangBtn["disabled"] = ![]),
-        (kirimSumbangBtn["innerText"] = _0x3fd6fe(0x11c)));
+      ((kirimSumbangBtn[_0x3c816e(0xa7)] = ![]),
+        (kirimSumbangBtn[_0x3c816e(0xcc)] = _0x3c816e(0xaf)));
     }
   }));
 async function loadDataFromCloud() {
-  const _0x42f58b = _0x2d023b;
+  const _0x2dc5ca = _0x5395d8;
   try {
-    let _0x290d97 = [],
-      _0x489574 = !![],
-      _0x55b317 = 0x0;
-    const _0x5022dd = 0x3e8;
-    while (_0x489574) {
-      const { data: _0x457fa4, error: _0xf1a276 } = await supabaseClient[
-        _0x42f58b(0x16c)
+    let _0x42b71a = [],
+      _0x2939d9 = !![],
+      _0x41a39d = 0x0;
+    const _0x117972 = 0x3e8;
+    while (_0x2939d9) {
+      const { data: _0xec1297, error: _0x396df7 } = await supabaseClient[
+        _0x2dc5ca(0x87)
       ]("kamus_global")
-        [_0x42f58b(0x12a)](_0x42f58b(0x153))
-        [_0x42f58b(0x169)](_0x55b317, _0x55b317 + _0x5022dd - 0x1);
-      if (_0xf1a276) throw _0xf1a276;
-      if (_0x457fa4 && _0x457fa4[_0x42f58b(0x13f)] > 0x0) {
-        (_0x290d97[_0x42f58b(0x146)](
-          ..._0x457fa4["map"]((_0xc62e18) => _0xc62e18[_0x42f58b(0x153)]),
+        [_0x2dc5ca(0xcb)](_0x2dc5ca(0x6e))
+        [_0x2dc5ca(0xa1)](_0x41a39d, _0x41a39d + _0x117972 - 0x1);
+      if (_0x396df7) throw _0x396df7;
+      if (_0xec1297 && _0xec1297[_0x2dc5ca(0x72)] > 0x0) {
+        (_0x42b71a[_0x2dc5ca(0xac)](
+          ..._0xec1297["map"]((_0x37fc2a) => _0x37fc2a[_0x2dc5ca(0x6e)]),
         ),
-          (_0x55b317 += _0x5022dd),
-          (loaderText[_0x42f58b(0x16f)] =
-            _0x42f58b(0x137) + _0x290d97[_0x42f58b(0x13f)] + _0x42f58b(0x10e)));
-        if (_0x457fa4[_0x42f58b(0x13f)] < _0x5022dd) _0x489574 = ![];
-      } else _0x489574 = ![];
+          (_0x41a39d += _0x117972),
+          (loaderText[_0x2dc5ca(0xcc)] =
+            _0x2dc5ca(0x96) + _0x42b71a["length"] + _0x2dc5ca(0x89)));
+        if (_0xec1297["length"] < _0x117972) _0x2939d9 = ![];
+      } else _0x2939d9 = ![];
     }
-    ((words = _0x290d97),
-      (loader[_0x42f58b(0x10a)]["display"] = _0x42f58b(0x155)),
-      showToast("✅\x20" + words[_0x42f58b(0x13f)] + _0x42f58b(0x167)),
+    ((words = _0x42b71a),
+      (loader["style"][_0x2dc5ca(0xc6)] = "none"),
+      showToast("✅\x20" + words[_0x2dc5ca(0x72)] + "\x20Kata\x20Siap!"),
       performSearch());
-  } catch (_0x5d164d) {
-    (console[_0x42f58b(0x16e)](_0x5d164d), alert(_0x42f58b(0x143)));
+  } catch (_0x4bae04) {
+    (console[_0x2dc5ca(0x80)](_0x4bae04),
+      alert(
+        "Gagal\x20konek\x20ke\x20Cloud.\x20Cek\x20internet\x20HP\x20kamu!",
+      ));
   }
 }
 function performSearch() {
-  const _0x5bfb11 = _0x2d023b,
-    _0x2aece7 = prefixInput[_0x5bfb11(0x121)]
-      [_0x5bfb11(0x133)]()
-      [_0x5bfb11(0x112)](),
-    _0x21365c = suffixInput[_0x5bfb11(0x121)]
-      [_0x5bfb11(0x133)]()
-      [_0x5bfb11(0x112)]();
-  ((clearPrefix["style"][_0x5bfb11(0x158)] = _0x2aece7
-    ? _0x5bfb11(0x13b)
-    : _0x5bfb11(0x155)),
-    (clearSuffix[_0x5bfb11(0x10a)]["display"] = _0x21365c
-      ? _0x5bfb11(0x13b)
-      : _0x5bfb11(0x155)),
-    (allFilteredResults = words[_0x5bfb11(0x156)]((_0x3d0211) => {
-      const _0x3dc1f1 = _0x5bfb11,
-        _0x4eef09 = _0x2aece7 ? _0x3d0211[_0x3dc1f1(0x11b)](_0x2aece7) : !![],
-        _0x10123e = _0x21365c ? _0x3d0211["endsWith"](_0x21365c) : !![];
-      return _0x4eef09 && _0x10123e;
+  const _0x4d82db = _0x5395d8,
+    _0x48c1c8 = prefixInput[_0x4d82db(0x8b)][_0x4d82db(0x92)]()["trim"](),
+    _0xd0a4e7 = suffixInput["value"][_0x4d82db(0x92)]()[_0x4d82db(0x8f)]();
+  ((clearPrefix[_0x4d82db(0xbe)]["display"] = _0x48c1c8 ? "block" : "none"),
+    (clearSuffix[_0x4d82db(0xbe)][_0x4d82db(0xc6)] = _0xd0a4e7
+      ? "block"
+      : _0x4d82db(0x8e)),
+    (allFilteredResults = words[_0x4d82db(0xc4)]((_0x2f7f84) => {
+      const _0x7994fa = _0x4d82db,
+        _0x2407cf = _0x48c1c8 ? _0x2f7f84["startsWith"](_0x48c1c8) : !![],
+        _0x1b3068 = _0xd0a4e7 ? _0x2f7f84[_0x7994fa(0xa4)](_0xd0a4e7) : !![];
+      return _0x2407cf && _0x1b3068;
     })),
-    allFilteredResults[_0x5bfb11(0x145)](
-      (_0x2a7822, _0x1da8cb) =>
-        _0x2a7822["length"] - _0x1da8cb[_0x5bfb11(0x13f)] ||
-        _0x2a7822[_0x5bfb11(0x14e)](_0x1da8cb),
+    allFilteredResults["sort"](
+      (_0x27fdcd, _0x38527d) =>
+        _0x27fdcd[_0x4d82db(0x72)] - _0x38527d["length"] ||
+        _0x27fdcd[_0x4d82db(0x9a)](_0x38527d),
     ),
     (currentPage = 0x1),
     updatePagination());
 }
 function updatePagination() {
-  const _0x330560 = _0x2d023b,
-    _0x33c4a8 = allFilteredResults[_0x330560(0x13f)];
-  if (_0x33c4a8 === 0x0) {
-    ((list[_0x330560(0x16b)] = _0x330560(0x150)),
-      (paginationBox[_0x330560(0x10a)][_0x330560(0x158)] = _0x330560(0x155)),
-      (counter["innerText"] = "Ditemukan:\x200\x20kata"));
+  const _0x49e179 = _0x5395d8,
+    _0x507b39 = allFilteredResults[_0x49e179(0x72)];
+  if (_0x507b39 === 0x0) {
+    ((list[_0x49e179(0x94)] =
+      "<div\x20style=\x22text-align:center;\x20color:#ff4444;\x20margin-top:20px;\x22>❌\x20Tidak\x20ditemukan</div>"),
+      (paginationBox[_0x49e179(0xbe)]["display"] = _0x49e179(0x8e)),
+      (counter[_0x49e179(0xcc)] = _0x49e179(0xb3)));
     return;
   }
-  ((paginationBox[_0x330560(0x10a)][_0x330560(0x158)] = "flex"),
-    (counter["innerText"] = _0x330560(0x11a) + _0x33c4a8 + _0x330560(0x144)));
-  const _0x5b49f1 = Math[_0x330560(0x126)](_0x33c4a8 / ITEMS_PER_PAGE);
-  if (currentPage > _0x5b49f1) currentPage = _0x5b49f1;
+  ((paginationBox[_0x49e179(0xbe)]["display"] = _0x49e179(0x9d)),
+    (counter["innerText"] =
+      "🎯\x20Ditemukan:\x20" + _0x507b39 + _0x49e179(0xc2)));
+  const _0x4b4e5b = Math["ceil"](_0x507b39 / ITEMS_PER_PAGE);
+  if (currentPage > _0x4b4e5b) currentPage = _0x4b4e5b;
   if (currentPage < 0x1) currentPage = 0x1;
-  pageInfo[_0x330560(0x16f)] =
-    "Hal\x20" + currentPage + _0x330560(0x15f) + _0x5b49f1;
-  const _0x5f2d60 = (currentPage - 0x1) * ITEMS_PER_PAGE,
-    _0x290d40 = _0x5f2d60 + ITEMS_PER_PAGE,
-    _0x483a7b = allFilteredResults[_0x330560(0x111)](_0x5f2d60, _0x290d40);
-  renderList(_0x483a7b);
+  pageInfo["innerText"] =
+    _0x49e179(0xa0) + currentPage + _0x49e179(0x9f) + _0x4b4e5b;
+  const _0x4b744e = (currentPage - 0x1) * ITEMS_PER_PAGE,
+    _0x2b749b = _0x4b744e + ITEMS_PER_PAGE,
+    _0x16a736 = allFilteredResults[_0x49e179(0x88)](_0x4b744e, _0x2b749b);
+  renderList(_0x16a736);
 }
-(prevBtn[_0x2d023b(0x164)](_0x2d023b(0x161), () => {
-  const _0x2d8787 = _0x2d023b,
-    _0xe3b068 = Math[_0x2d8787(0x126)](
-      allFilteredResults["length"] / ITEMS_PER_PAGE,
+function _0x1fdc(_0x4fcfeb, _0x5d4b1c) {
+  _0x4fcfeb = _0x4fcfeb - 0x6d;
+  const _0x5d5d9f = _0x5d5d();
+  let _0x1fdcb9 = _0x5d5d9f[_0x4fcfeb];
+  return _0x1fdcb9;
+}
+(prevBtn[_0x5395d8(0xa3)](_0x5395d8(0xad), () => {
+  const _0x3f8a0f = _0x5395d8,
+    _0x1a3cea = Math[_0x3f8a0f(0xb2)](
+      allFilteredResults[_0x3f8a0f(0x72)] / ITEMS_PER_PAGE,
     );
-  (currentPage === 0x1 ? (currentPage = _0xe3b068) : currentPage--,
+  (currentPage === 0x1 ? (currentPage = _0x1a3cea) : currentPage--,
     updatePagination(),
-    list[_0x2d8787(0x139)](0x0, 0x0));
+    list[_0x3f8a0f(0x95)](0x0, 0x0));
 }),
-  nextBtn[_0x2d023b(0x164)]("click", () => {
-    const _0x3167b2 = _0x2d023b,
-      _0x31230b = Math["ceil"](
-        allFilteredResults[_0x3167b2(0x13f)] / ITEMS_PER_PAGE,
+  nextBtn[_0x5395d8(0xa3)](_0x5395d8(0xad), () => {
+    const _0x3ef4fa = _0x5395d8,
+      _0x34186b = Math[_0x3ef4fa(0xb2)](
+        allFilteredResults[_0x3ef4fa(0x72)] / ITEMS_PER_PAGE,
       );
-    (currentPage === _0x31230b ? (currentPage = 0x1) : currentPage++,
+    (currentPage === _0x34186b ? (currentPage = 0x1) : currentPage++,
       updatePagination(),
-      list[_0x3167b2(0x139)](0x0, 0x0));
+      list[_0x3ef4fa(0x95)](0x0, 0x0));
   }),
-  prevBtn["addEventListener"](_0x2d023b(0x161), () => {
-    const _0x5bb6e8 = _0x2d023b;
-    (currentPage--, updatePagination(), list[_0x5bb6e8(0x139)](0x0, 0x0));
+  prevBtn[_0x5395d8(0xa3)](_0x5395d8(0xad), () => {
+    const _0x9a5e2a = _0x5395d8;
+    (currentPage--, updatePagination(), list[_0x9a5e2a(0x95)](0x0, 0x0));
   }),
-  nextBtn[_0x2d023b(0x164)](_0x2d023b(0x161), () => {
-    const _0x1b97d1 = _0x2d023b;
-    (currentPage++, updatePagination(), list[_0x1b97d1(0x139)](0x0, 0x0));
+  nextBtn[_0x5395d8(0xa3)](_0x5395d8(0xad), () => {
+    const _0x3d4215 = _0x5395d8;
+    (currentPage++, updatePagination(), list[_0x3d4215(0x95)](0x0, 0x0));
   }));
-function renderList(_0x3ba68c) {
-  const _0xc1207e = _0x2d023b;
-  list[_0xc1207e(0x16b)] = "";
-  const _0x4677a1 = (currentPage - 0x1) * ITEMS_PER_PAGE;
-  _0x3ba68c[_0xc1207e(0x15c)]((_0x5badf2, _0x395769) => {
-    const _0x290886 = _0xc1207e,
-      _0x457874 = document["createElement"](_0x290886(0x123));
-    _0x457874["className"] = _0x290886(0x129);
-    const _0x5aa385 = document[_0x290886(0x14a)]("div");
-    _0x5aa385[_0x290886(0x11f)] = _0x290886(0x131);
-    const _0x330be0 = document[_0x290886(0x14a)](_0x290886(0x10b));
-    ((_0x330be0[_0x290886(0x11f)] = "item-number"),
-      (_0x330be0[_0x290886(0x16f)] = _0x4677a1 + _0x395769 + 0x1 + "."));
-    const _0x4dd614 = document[_0x290886(0x14a)](_0x290886(0x10b));
-    ((_0x4dd614[_0x290886(0x11f)] = _0x290886(0x10f)),
-      (_0x4dd614[_0x290886(0x16f)] = _0x5badf2),
-      _0x5aa385["appendChild"](_0x330be0),
-      _0x5aa385[_0x290886(0x11d)](_0x4dd614));
-    const _0x5e44fa = document[_0x290886(0x14a)](_0x290886(0x152));
-    ((_0x5e44fa["innerText"] = _0x290886(0x117)),
-      (_0x5e44fa["className"] = _0x290886(0x113)),
-      (_0x5e44fa[_0x290886(0x140)] = () => {
-        const _0x19be46 = _0x290886;
-        (navigator[_0x19be46(0x148)][_0x19be46(0x124)](_0x5badf2),
-          showToast(_0x19be46(0x141) + _0x5badf2),
-          (_0x5e44fa[_0x19be46(0x16f)] = _0x19be46(0x12e)),
-          (_0x5e44fa[_0x19be46(0x10a)][_0x19be46(0x13c)] = "#00e676"),
-          (_0x5e44fa[_0x19be46(0x10a)][_0x19be46(0x120)] = "black"),
+function renderList(_0x41c749) {
+  const _0x28b5a9 = _0x5395d8;
+  list[_0x28b5a9(0x94)] = "";
+  const _0x243731 = (currentPage - 0x1) * ITEMS_PER_PAGE;
+  _0x41c749[_0x28b5a9(0xa5)]((_0xc01b44, _0x3e5230) => {
+    const _0x525d04 = _0x28b5a9,
+      _0x4a584d = document[_0x525d04(0xa9)]("div");
+    _0x4a584d[_0x525d04(0xb9)] = _0x525d04(0xd2);
+    const _0x48a31e = document["createElement"]("div");
+    _0x48a31e["className"] = _0x525d04(0xa6);
+    const _0x103e8c = document[_0x525d04(0xa9)]("span");
+    ((_0x103e8c[_0x525d04(0xb9)] = _0x525d04(0x75)),
+      (_0x103e8c[_0x525d04(0xcc)] = _0x243731 + _0x3e5230 + 0x1 + "."));
+    const _0x47c89f = document[_0x525d04(0xa9)](_0x525d04(0x83));
+    ((_0x47c89f[_0x525d04(0xb9)] = _0x525d04(0x8d)),
+      (_0x47c89f[_0x525d04(0xcc)] = _0xc01b44),
+      _0x48a31e["appendChild"](_0x103e8c),
+      _0x48a31e[_0x525d04(0xc8)](_0x47c89f));
+    const _0x468ce1 = document["createElement"]("button");
+    ((_0x468ce1[_0x525d04(0xcc)] = "📋"),
+      (_0x468ce1["className"] = _0x525d04(0x82)),
+      (_0x468ce1[_0x525d04(0x6d)] = () => {
+        const _0x937e11 = _0x525d04;
+        (navigator[_0x937e11(0xba)]["writeText"](_0xc01b44),
+          showToast(_0x937e11(0x81) + _0xc01b44),
+          (_0x468ce1[_0x937e11(0xcc)] = _0x937e11(0xcf)),
+          (_0x468ce1[_0x937e11(0xbe)][_0x937e11(0xd1)] = _0x937e11(0xb8)),
+          (_0x468ce1[_0x937e11(0xbe)][_0x937e11(0xd0)] = _0x937e11(0x93)),
           setTimeout(() => {
-            const _0x4c591e = _0x19be46;
-            ((_0x5e44fa[_0x4c591e(0x16f)] = _0x4c591e(0x117)),
-              (_0x5e44fa["style"]["background"] = _0x4c591e(0x154)),
-              (_0x5e44fa[_0x4c591e(0x10a)][_0x4c591e(0x120)] =
-                _0x4c591e(0x15b)));
+            const _0x1660a8 = _0x937e11;
+            ((_0x468ce1[_0x1660a8(0xcc)] = _0x1660a8(0x70)),
+              (_0x468ce1[_0x1660a8(0xbe)][_0x1660a8(0xd1)] = "#333"),
+              (_0x468ce1[_0x1660a8(0xbe)][_0x1660a8(0xd0)] = _0x1660a8(0x7c)));
           }, 0x5dc));
       }),
-      _0x457874["appendChild"](_0x5aa385),
-      _0x457874["appendChild"](_0x5e44fa),
-      list[_0x290886(0x11d)](_0x457874));
+      _0x4a584d[_0x525d04(0xc8)](_0x48a31e),
+      _0x4a584d[_0x525d04(0xc8)](_0x468ce1),
+      list[_0x525d04(0xc8)](_0x4a584d));
   });
 }
-function _0x3c90() {
-  const _0x2c3fed = [
-    "forEach",
-    "tutupModalBtn",
-    "MSStream",
-    "\x20/\x20",
-    "inputSumbangKata",
-    "click",
-    "Harap\x20isi\x20Nickname\x20kamu!",
-    "nextBtn",
-    "addEventListener",
-    "createClient",
-    "loader-text",
-    "\x20Kata\x20Siap!",
-    "kamus_usulan",
-    "range",
-    "list",
-    "innerHTML",
-    "from",
-    "Anonim",
-    "error",
-    "innerText",
-    "inputSumbangNama",
-    "userAgent",
-    "getItem",
-    "Android",
-    "opera",
-    "13491AdIMce",
-    "style",
-    "span",
-    "openSumbangBtn",
-    "27Sdbpmi",
-    "\x20kata...",
-    "item-text",
-    "38848vrsssG",
-    "slice",
-    "trim",
-    "copy-btn",
-    "kirimSumbangBtn",
-    "Kata\x20tidak\x20boleh\x20kosong!",
-    "user_nickname",
-    "📋\x20Copy",
-    "test",
-    "Gagal\x20mengirim\x20kata.",
-    "🎯\x20Ditemukan:\x20",
-    "startsWith",
-    "Kirim",
-    "appendChild",
-    "iOS",
-    "className",
-    "color",
-    "value",
-    "136PFUDkY",
-    "div",
-    "writeText",
-    "853785btqnSe",
-    "ceil",
-    "clearSuffix",
-    "98BRNTjp",
-    "item",
-    "select",
-    "disabled",
-    "setItem",
-    "input",
-    "✔️\x20Copied",
-    "paginationBox",
-    "108610kwwGvw",
-    "item-left",
-    "prevBtn",
-    "toLowerCase",
-    "getElementById",
-    "https://lsnomevsllvjguotwchm.supabase.co",
-    "pending",
-    "Loading:\x20",
-    "56538nEzsVN",
-    "scrollTo",
-    "110odkQjQ",
-    "block",
-    "background",
-    "✅\x20Berhasil!\x20Menunggu\x20persetujuan.",
-    "insert",
-    "length",
-    "onclick",
-    "Tersalin:\x20",
-    "prefixInput",
-    "Gagal\x20konek\x20ke\x20Cloud.\x20Cek\x20internet\x20HP\x20kamu!",
-    "\x20kata",
-    "sort",
-    "push",
-    "4610qELUxi",
-    "clipboard",
-    "PC/Web",
-    "createElement",
-    "cloud-loader",
-    "sumbangModal",
-    "focus",
-    "localeCompare",
-    "1164nkJOsP",
-    "<div\x20style=\x22text-align:center;\x20color:#ff4444;\x20margin-top:20px;\x22>❌\x20Tidak\x20ditemukan</div>",
-    "Mengirim...",
-    "button",
-    "word",
-    "#333",
-    "none",
-    "filter",
-    "flex",
-    "display",
-    "counter",
-    "2123OOVbfB",
-    "white",
-  ];
-  _0x3c90 = function () {
-    return _0x2c3fed;
-  };
-  return _0x3c90();
-}
-(prefixInput[_0x2d023b(0x164)](_0x2d023b(0x12d), performSearch),
-  suffixInput[_0x2d023b(0x164)](_0x2d023b(0x12d), performSearch),
-  clearPrefix[_0x2d023b(0x164)](_0x2d023b(0x161), () => {
-    const _0x4c68e7 = _0x2d023b;
-    ((prefixInput[_0x4c68e7(0x121)] = ""),
-      performSearch(),
-      prefixInput[_0x4c68e7(0x14d)]());
+(prefixInput[_0x5395d8(0xa3)](_0x5395d8(0x73), performSearch),
+  suffixInput["addEventListener"](_0x5395d8(0x73), performSearch),
+  clearPrefix[_0x5395d8(0xa3)]("click", () => {
+    ((prefixInput["value"] = ""), performSearch(), prefixInput["focus"]());
   }),
-  clearSuffix[_0x2d023b(0x164)](_0x2d023b(0x161), () => {
-    const _0x52b836 = _0x2d023b;
-    ((suffixInput["value"] = ""),
+  clearSuffix[_0x5395d8(0xa3)](_0x5395d8(0xad), () => {
+    const _0x3994c1 = _0x5395d8;
+    ((suffixInput[_0x3994c1(0x8b)] = ""),
       performSearch(),
-      suffixInput[_0x52b836(0x14d)]());
+      suffixInput[_0x3994c1(0x91)]());
   }));
-function showToast(_0x244821) {
-  const _0x59fc6d = _0x2d023b;
-  ((toast[_0x59fc6d(0x16f)] = _0x244821),
-    (toast["style"]["display"] = _0x59fc6d(0x13b)),
+function showToast(_0x129d86) {
+  const _0x3733bf = _0x5395d8;
+  ((toast[_0x3733bf(0xcc)] = _0x129d86),
+    (toast[_0x3733bf(0xbe)][_0x3733bf(0xc6)] = "block"),
     setTimeout(
-      () => (toast[_0x59fc6d(0x10a)][_0x59fc6d(0x158)] = _0x59fc6d(0x155)),
+      () => (toast[_0x3733bf(0xbe)][_0x3733bf(0xc6)] = _0x3733bf(0x8e)),
       0x5dc,
     ));
 }
